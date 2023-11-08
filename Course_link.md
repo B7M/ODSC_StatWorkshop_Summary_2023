@@ -1,4 +1,4 @@
-# PyGlide_Actions
+# ODSC_StatWorkshop_Summary_2023
   
 Welcome to PyGlide!
 Where you can publish free educational content.
@@ -6,4 +6,4 @@ You can start by pushing a new notebook or an existing one to this repo. Make su
 
 
 ### Modified on:
-2023-11-04, 22:07:58, New York Time!
+2023-11-08, 09:41:45, New York Time!
