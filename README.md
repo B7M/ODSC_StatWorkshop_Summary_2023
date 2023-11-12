@@ -8,7 +8,7 @@ Babak Moghadas <sup>1</sup> and Brian Caffo <sup>1, 2</sup> \
 <sup>1</sup> Department of Biostatistic \
 <sup>2</sup>Department of Biomedical Engineering \
 Bloomberg School of Public Health \
-Johns Hopkins University \
+Johns Hopkins University
     
 This repository contains notebooks that have been converted to HTML using PyGlide. You can view the notebooks by clicking on the links below.
 GitHub Pages:
