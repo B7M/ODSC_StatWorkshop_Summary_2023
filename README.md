@@ -4,11 +4,11 @@ The following is the content presented in the ODSC 2023 West workshop session; t
 
 ## Statistics for Data Science and Measurement
 
-Babak Moghadas <sup>1</sup> and Brian Caffo <sup>1, 2</sup>
-<sup>1</sup> Department of Biostatistic
-<sup>2</sup>Department of Biomedical Engineering
-Bloomberg School of Public Health
-Johns Hopkins University
+Babak Moghadas <sup>1</sup> and Brian Caffo <sup>1, 2</sup>\n
+<sup>1</sup> Department of Biostatistic \n
+<sup>2</sup>Department of Biomedical Engineering\n
+Bloomberg School of Public Health \n
+Johns Hopkins University \n
     
 This repository contains notebooks that have been converted to HTML using PyGlide. You can view the notebooks by clicking on the links below.
 GitHub Pages:
