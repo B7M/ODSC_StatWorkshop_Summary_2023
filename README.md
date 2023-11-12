@@ -1,8 +1,8 @@
 # ODSC_StatWorkshop_Summary_2023
 
-The following is the content presented in ODSC 2023 West, the slides were created using the GitHub repository [template](https://github.com/B7M/PyGlide_Actions).
+The following is the content presented in the ODSC 2023 West workshop session; the slides were created using the GitHub repository [template](https://github.com/B7M/PyGlide_Actions).
 
-**Statistics for Data Science and Measurement** workshop
+## Statistics for Data Science and Measurement
 
 Babak Moghadas <sup>1</sup> and Brian Caffo <sup>1, 2</sup>
 <sup>1</sup> Department of Biostatistic
